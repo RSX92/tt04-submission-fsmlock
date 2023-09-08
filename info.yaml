@@ -9,8 +9,8 @@ project:
     - m_Div_frec.v
     - m_FMD_password.v
     - BounceFSM.v
-    - tt_um_BounceFSM_RSYO3000.v
-  top_module:  "tt_um_BounceFSM_RSYO3000"      # Put the name of your top module here, must start with "tt_um_". Make it unique by including your github username
+    - tt_um_BounceFSM_RSX92.v
+  top_module:  "tt_um_BounceFSM_RSX92"      # Put the name of your top module here, must start with "tt_um_". Make it unique by including your github username
 
 # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"    # Valid values: 1x1, 1x2, 2x2, 4x2 or 8x2
