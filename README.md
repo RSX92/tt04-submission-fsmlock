@@ -1,7 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
 # TinyTapeout4 Project: Lock FSM
-This project is a FSM that contains a hardlocked password you have to guess
+This project is a FSM that contains a hardlocked password which you have to guess using the buttons and switches
 
 
 # What is Tiny Tapeout?
